@@ -9,8 +9,5 @@ On the way to becoming a Full Stack Dev. I like music, games, kids and coffee. :
 - ⚡ Fun fact: I love Volleyball
 
 ### Talk with me :grin:. I'm shy, but I like to talk
-
-https://www.linkedin.com/in/esdras-antero-2b5501247/
-
-
-https://github-readme-stats.vercel.app/api?username={esdrasaaf}
+  - https://www.linkedin.com/in/esdras-antero-2b5501247/
+  - 

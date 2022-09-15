@@ -27,18 +27,9 @@ On the way to becoming a Full Stack Dev. I like music, games, kids and coffee. :
 <br>
 <br>
 
-### GitHub stats
-
 <details>
   <summary> :bookmark_tabs: GitHub Stats</summary>
 
   <img align="left" alt="Esdras's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=esdrasaaf&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:bookmark_tabs: Most Used Languages</summary>
-
-  <img align="left" alt="Esdras's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasaaf" />
 
 </details>

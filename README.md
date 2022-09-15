@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there, I'm Esdras  👋
 
-<!--
-**esdrasaaf/esdrasaaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+On the way to becoming a Full Stack Dev. I like music, games, kids and coffee. :slightly_smiling_face:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying on Driven Education
+- 🌱 I’m currently learning React JS
+- 💬 Ask me about Sports, E-sports, Games, Programming and Music
+- ⚡ Fun fact: I love Volleyball
+
+### Talk with me :grin:. I'm shy, but I like to talk
+
+https://www.linkedin.com/in/esdras-antero-2b5501247/
+
+
+https://github-readme-stats.vercel.app/api?username={esdrasaaf}

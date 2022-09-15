@@ -21,3 +21,22 @@ On the way to becoming a Full Stack Dev. I like music, games, kids and coffee. :
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<br>
+<br>
+
+### GitHub stats
+
+<details>
+  <summary> :bookmark_tabs: GitHub Stats</summary>
+
+  <img align="left" alt="Esdras's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=esdrasaaf&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:bookmark_tabs: Most Used Languages</summary>
+
+  <img align="left" alt="Esdras's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasaaf" />
+
+</details>

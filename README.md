@@ -11,7 +11,9 @@ On the way to becoming a Full Stack Dev. I like music, games, kids and coffee. :
 <br>
 
 ### Talk with me :grin:. I'm shy, but I like to talk
-  <a href="https://www.linkedin.com/in/esdras-antero-2b5501247/"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/esdras-antero-2b5501247/"><img align="left" alt="esdras_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+  
+  <a href="https://www.instagram.com/esdras_aaf/"><img align="left" alt="esdras_insta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 
 <br>
 

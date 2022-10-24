@@ -3,7 +3,7 @@
 
 On the way to becoming a Full Stack Dev. I like music, games, kids and coffee. :slightly_smiling_face:
 
-- 🔭 I’m currently studying on Driven Education
+- 🔭 I’m currently studying at Driven Education
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about Sports, E-sports, Games, Programming and Music
 - ⚡ Fun fact: I love Volleyball

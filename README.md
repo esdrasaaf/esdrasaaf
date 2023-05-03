@@ -1,10 +1,10 @@
 ### Hello there, I'm Esdras  👋
 
 
-On the way to becoming a Full Stack Dev. I like music, games, kids and sports. :slightly_smiling_face:
+On the way to always being a better Full Stack Dev. I like music, games, kids and sports. :slightly_smiling_face:
 
 - 🔭 I’m currently studying at Driven Education
-- 🌱 I’m currently learning Redis
+- 🌱 I’m currently learning Nest
 - 💬 Ask me about Sports, E-sports, Games, Programming and Music
 - ⚡ Fun fact: I love Volleyball
 

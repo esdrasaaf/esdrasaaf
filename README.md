@@ -3,8 +3,7 @@
 
 On the way to always being a better developer. I like music, games, kids and sports. :slightly_smiling_face:
 
-- 🔭 I’m currently studying at Driven Education
-- 🌱 I’m currently learning Nest
+- 🔭 Web Developer formed by Driven Education
 - 💬 Ask me about Sports, E-sports, Games, Programming and Music
 - ⚡ Fun fact: I love Volleyball
 

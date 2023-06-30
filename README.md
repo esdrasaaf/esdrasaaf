@@ -1,7 +1,7 @@
 ### Hello there, I'm Esdras  👋
 
 
-On the way to always being a better Full Stack Dev. I like music, games, kids and sports. :slightly_smiling_face:
+On the way to always being a better developer. I like music, games, kids and sports. :slightly_smiling_face:
 
 - 🔭 I’m currently studying at Driven Education
 - 🌱 I’m currently learning Nest

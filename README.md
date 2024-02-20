@@ -1,7 +1,7 @@
 ### Hello there, I'm Esdras  👋
 
 
-On the way to always being a better developer. I like music, games, kids and sports. :slightly_smiling_face:
+On the way to always being a better developer. I like music, games, coffee and sports. :slightly_smiling_face:
 
 - 🔭 Web Developer formed by Driven Education
 - 💬 Ask me about Sports, E-sports, Games, Programming and Music
